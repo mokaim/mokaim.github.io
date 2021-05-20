@@ -6,7 +6,7 @@ comments : true
 
 
 
-![google_AD_01](/assets/google_AD_01.png)
+![google_AD_01](/imgs/google_AD_01.png)
 
 .
 
@@ -23,7 +23,7 @@ comments : true
 includes - header.html 에서 위의 script 태그를 붙혀주시면 됩니다.
 
 
-![google_AD_02](/assets/google_AD_02.png)
+![google_AD_02](/imgs/google_AD_02.png)
 
 
 
@@ -34,7 +34,7 @@ Jekyll 블로그도 각각의 템플릿 마다 html 파일이 다르지만 head 
 
 
 
-![google_AD_03](/assets/google_AD_03.png)
+![google_AD_03](/imgs/google_AD_03.png)
 
 
 

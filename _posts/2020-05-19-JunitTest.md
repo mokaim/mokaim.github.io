@@ -27,19 +27,19 @@ comments : true
 
 > # Eclipse에서 Junit 테스트 해보기
 
-![JUnit_01](/assets/JUnit_01.png)
+![JUnit_01](/imgs/JUnit_01.png)
 
 
      우선 Project Exporer 에서 우측 마우스 클릭 - > 새로운 기본 자바프로젝트를 엽니다.
 
 
-![JUnit_02](/assets/JUnit_02.png)
+![JUnit_02](/imgs/JUnit_02.png)
 
 
      프로젝트 이름은 간략하게 JUnitTest 라고 지어줍시다.
 
 
-![JUnit_03](/assets/JUnit_03.png)
+![JUnit_03](/imgs/JUnit_03.png)
 
 
      그리고 패키지를 만들어주시고 새로운 Class 를 생성합니다.
@@ -47,7 +47,7 @@ comments : true
      Class는 Calculator 의 약자인 Cal 로 지정하겠습니다.
 
 
-![JUnit_04](/assets/JUnit_04.png)
+![JUnit_04](/imgs/JUnit_04.png)
 
 *
 
@@ -57,19 +57,19 @@ comments : true
 
      위와 같은 간단한 더하기 빼기 메소드를 작성해 봅시다.
 
-![JUnit_05](/assets/JUnit_05.png)
+![JUnit_05](/imgs/JUnit_05.png)
 
 
      그리고 Package에서 우측 마우스 클릭 후 JUnit Test Case 를 클릭해줍시다.
 
 
-![JUnit_06](/assets/JUnit_06.png)
+![JUnit_06](/imgs/JUnit_06.png)
 
 
      그러면 위와 같은 화면이 등장하게됩니다.
 
 
-![JUnit_07](/assets/JUnit_07.png)
+![JUnit_07](/imgs/JUnit_07.png)
 
      Package 이름과 밑의 Class under test 이름을 작성해줍시다.
      이름은 Test를 진행할 Class Name + Test 로 작성해주시면 됩니다.
@@ -78,22 +78,22 @@ comments : true
      지금과 같은 경우는 방금 생성하였던 Cal Class 를 선택해주시면 되겠습니다.
 
 
-![JUnit_08](/assets/JUnit_08.png)
+![JUnit_08](/imgs/JUnit_08.png)
 
      위와 같이 자신의 Package 이름을 검색하면 테스트 가능한 Class를 보여줍니다.
 
-![JUnit_09](/assets/JUnit_09.png)
+![JUnit_09](/imgs/JUnit_09.png)
 
      확인을 클릭해줍니다.
 
-![JUnit_10](/assets/JUnit_10.png)
+![JUnit_10](/imgs/JUnit_10.png)
 
      만일 위와같은 화면이 나온다면 OK를 눌러줍시다.
      이유인 즉슨 Eclipse 에서 기본적으로 JUnit 프레임워크 라이브러리를 지원해주지만
      지금 만든 프로젝트에서는 아직까지 Eclipse 의 JUnit 라이브러리를 불러오지 않아서
      나오는 메시지 입니다.
 
-![JUnit_11](/assets/JUnit_11.png)
+![JUnit_11](/imgs/JUnit_11.png)
 
 
 *
@@ -104,7 +104,7 @@ comments : true
 
      그럼 위와같은 코드가 생성됨을 알 수 있습니다.
 
-![JUnit_12](/assets/JUnit_12.png)
+![JUnit_12](/imgs/JUnit_12.png)
 
 *
 
@@ -118,11 +118,11 @@ comments : true
      합니다.
      한 마디로 객체 a,b가 같은 것인지 확인합니다.
 
-![JUnit_13](/assets/JUnit_13.png)
+![JUnit_13](/imgs/JUnit_13.png)
 
      그리고 만들어진 Test Class에 마우스 우측 버튼 클릭 후 Run As - JUnit Test 를 클릭해줍니다.
 
-![JUnit_14](/assets/JUnit_14.png)
+![JUnit_14](/imgs/JUnit_14.png)
 
      정상적으로 실행이 완료되면 위와 같이 초록색으로 완료표시가 나타난 걸 확인할 수 있습니다.
 

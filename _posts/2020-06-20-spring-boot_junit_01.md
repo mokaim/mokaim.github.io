@@ -28,7 +28,7 @@ comments : true
 그리고 똑같은 경로인 src/test/java 밑에 실행시킬 Test Class 를 만듭니다.
 
 
-![SpringBoot-Junit_01](/assets/SpringBoot-Junit_01/SpringBoot-Junit_01.png)
+![SpringBoot-Junit_01](/imgs/SpringBoot-Junit_01/SpringBoot-Junit_01.png)
 
 
 스프링 부트에서 Autowired Annotation 으로 의존성을 주입하고 주입된 객체를 참조할 때 NullpointException이 발생하였습니다.

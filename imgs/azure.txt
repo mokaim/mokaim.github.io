@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/35860578/azure-storage-through-java-mvc-web-site
+azure 블롭스토리지에 바로 올리는 법
+
+
+https://cnthoth.tistory.com/38
+https://docs.microsoft.com/ko-kr/sql/relational-databases/collations/set-or-change-the-database-collation?view=sql-server-ver15
+https://stackoverflow.com/questions/9818354/how-to-resolve-azure-windows-logins-are-not-supported-in-this-version-of-sql-se
+
+azure 에러
+
+
+

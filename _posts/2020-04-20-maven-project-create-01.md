@@ -16,7 +16,7 @@ comments : true
 
 
 
-![springProjectMavenCreate_01](/assets/springProjectMavenCreate_01.png)
+![springProjectMavenCreate_01](/imgs/springProjectMavenCreate_01.png)
 
 > # 이클립스를 실행하여 새 프로젝트를 생성한다.
 
@@ -27,7 +27,7 @@ comments : true
 
 
 
-![springProjectMavenCreate_02](/assets/springProjectMavenCreate_02.png)
+![springProjectMavenCreate_02](/imgs/springProjectMavenCreate_02.png)
 
 
 
@@ -36,19 +36,19 @@ comments : true
 
 
 
-![springProjectMavenCreate_03](/assets/springProjectMavenCreate_03.png)
+![springProjectMavenCreate_03](/imgs/springProjectMavenCreate_03.png)
 
 
     그렇다면 Maven 폴더를 찾아 다음과 같이 Maven Project 를 클릭해줍시다.
 
 
-![springProjectMavenCreate_04](/assets/springProjectMavenCreate_04.png)
+![springProjectMavenCreate_04](/imgs/springProjectMavenCreate_04.png)
 
 
     work directory 는 default 로 설정해주시면 됩니다.
 
 
-![springProjectMavenCreate_05](/assets/springProjectMavenCreate_05.png)
+![springProjectMavenCreate_05](/imgs/springProjectMavenCreate_05.png)
 
 
 
@@ -69,7 +69,7 @@ __모여있는 그룹집단의 ID입니다. Next를 눌러줍시다.__
 
 
 
-![springProjectMavenCreate_06](/assets/springProjectMavenCreate_06.png)
+![springProjectMavenCreate_06](/imgs/springProjectMavenCreate_06.png)
 
 
 
@@ -83,7 +83,7 @@ __모여있는 그룹집단의 ID입니다. Next를 눌러줍시다.__
 
 
 
-![springProjectMavenCreate_07](/assets/springProjectMavenCreate_07.png)
+![springProjectMavenCreate_07](/imgs/springProjectMavenCreate_07.png)
 
 
 
@@ -93,7 +93,7 @@ __모여있는 그룹집단의 ID입니다. Next를 눌러줍시다.__
 
 
 
-![springProjectMavenCreate_08](/assets/springProjectMavenCreate_08.png)
+![springProjectMavenCreate_08](/imgs/springProjectMavenCreate_08.png)
 
 
 
@@ -107,7 +107,7 @@ __하지만 어딘가의 설정이 잘못되었는지 빨간색 액티브 표시
 
 
 
-![springProjectMavenCreate_09](/assets/springProjectMavenCreate_09.png)
+![springProjectMavenCreate_09](/imgs/springProjectMavenCreate_09.png)
 
 
 
@@ -116,13 +116,13 @@ __하지만 어딘가의 설정이 잘못되었는지 빨간색 액티브 표시
     프로젝트에서 우측 마우스버튼 -> Build Path -> Configuration Build Path 를 선택합시다.
 
 
-![springProjectMavenCreate_10](/assets/springProjectMavenCreate_10.png)
+![springProjectMavenCreate_10](/imgs/springProjectMavenCreate_10.png)
 
 
     그런 다음 해당 항목에서 Add Libary를 클릭하시면 됩니다.
 
 
-![springProjectMavenCreate_11](/assets/springProjectMavenCreate_11.png)
+![springProjectMavenCreate_11](/imgs/springProjectMavenCreate_11.png)
 
 
 
@@ -134,7 +134,7 @@ __하지만 어딘가의 설정이 잘못되었는지 빨간색 액티브 표시
 
 
 
-![springProjectMavenCreate_12](/assets/springProjectMavenCreate_12.png)
+![springProjectMavenCreate_12](/imgs/springProjectMavenCreate_12.png)
 
 
 
@@ -144,7 +144,7 @@ __하지만 어딘가의 설정이 잘못되었는지 빨간색 액티브 표시
 
 
 
-![springProjectMavenCreate_13](/assets/springProjectMavenCreate_13.png)
+![springProjectMavenCreate_13](/imgs/springProjectMavenCreate_13.png)
 
 
 
@@ -154,7 +154,7 @@ __하지만 어딘가의 설정이 잘못되었는지 빨간색 액티브 표시
 
 
 
-![springProjectMavenCreate_14](/assets/springProjectMavenCreate_14.png)
+![springProjectMavenCreate_14](/imgs/springProjectMavenCreate_14.png)
 
 
 

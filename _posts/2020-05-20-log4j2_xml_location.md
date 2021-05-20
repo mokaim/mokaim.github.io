@@ -33,7 +33,7 @@ SpringFramework 같은 경우 자동적으로 resource 폴더를 classpath에 �
 그리고 현재의 classpath 를 확인해봅시다.
 
 
-![log4j2_classpath](/assets/log4j2_classpath.jpg)
+![log4j2_classpath](/imgs/log4j2_classpath.jpg)
 
 
 
@@ -46,7 +46,7 @@ SpringFramework 같은 경우 자동적으로 resource 폴더를 classpath에 �
 그렇다면 src 폴더 안에 작성한 log4j2.xml 파일을 넣어줍시다.
 
 
-![log4j2_classpath_src](/assets/log4j2_classpath_src.jpg)
+![log4j2_classpath_src](/imgs/log4j2_classpath_src.jpg)
 
 
 위와 같이 src 폴더에 넣어주시고 package를 하나 만들고 새롭게 Logging을 테스트 해 볼 Main Class를 하나 만들어줍시다.

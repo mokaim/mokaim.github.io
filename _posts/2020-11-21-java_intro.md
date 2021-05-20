@@ -154,7 +154,7 @@ JVM은 그러한 자바의 바이트 코드를 OS에 맞게 해석해주는 역�
 
 JVM은 크게 Class Loader, Runtime Data Areas, Excution Engine, Garbage Collector 4가지로 구성되어 있으며 구조는 밑의 이미지와 같습니다.
 
-![jvm_intro](/assets/java_study/jvm_intro.png)
+![jvm_intro](/imgs/java_study/jvm_intro.png)
 
 이미지 출저 : https://medium.com/@lazysoul/jvm-%EC%9D%B4%EB%9E%80-c142b01571f2
 
@@ -247,15 +247,15 @@ JVM이 프로그램을 수행하기 위해 OS로 부터 별도로 할당 받은 
 
 # 컴파일 하는 방법
 ##### 우선 자바를 설치한 후 환경변수 설정까지 등록해줍니다.
-![java_compile_01](/assets/java_study/java_compile_01.png)
+![java_compile_01](/imgs/java_study/java_compile_01.png)
 
 우선 간단한 소스코드를 nano편집기로 작성후
 
-![java_compile_02](/assets/java_study/java_compile_02.png)에
+![java_compile_02](/imgs/java_study/java_compile_02.png)에
 
 javac (자바 컴파일러)로 실행시킵니다.
 
-![java_compile_03](/assets/java_study/java_compile_03.png)
+![java_compile_03](/imgs/java_study/java_compile_03.png)
 
 그리고 난 후에는 컴파일 된 자바의 바이트코드가 나오게됩니다.
 
@@ -263,7 +263,7 @@ javac (자바 컴파일러)로 실행시킵니다.
 
 # 실행하는 방법
 
-![java_execute_01](/assets/java_study/java_execute_01.png)
+![java_execute_01](/imgs/java_study/java_execute_01.png)
 
 그리고 컴파일 되어진 바이트코드를 java 명령어를 통해 간단하게 실행시킬수 있습니다.
 
@@ -288,14 +288,14 @@ JIT 컴파일러는 같은 코드를 매번 해석하지 않고 실행할 때 �
 
 이후엔, 바뀐 부분만 컴파일 하고 나머지는 캐싱저장되어진 코드를 사용합니다.. 그리하 인터프리터의 속도를 개선할 수 있습니다.
 
-![JIT_Compile](/assets/java_study/JIT_Compile.png)
+![JIT_Compile](/imgs/java_study/JIT_Compile.png)
 
 출저 : https://medium.com/@ahn428/java-jit-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-c7d068e29f45
 
 # JVM 구성요소
 
 
-![JVM_Arch](/assets/java_study/JVM_Arch.jpeg)
+![JVM_Arch](/imgs/java_study/JVM_Arch.jpeg)
 
 자료 및 이미지 출저 : https://sjh836.tistory.com/64
 

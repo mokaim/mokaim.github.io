@@ -9,7 +9,7 @@ comments : true
 하지만 스프링 프레임워크는 이러한 작업들을 자동화시켜주기 때문에 개발자들이 조금 더 효율적으로 프로그래밍을 할 수 있게끔 도와준답니다.
 
 
-![springModule](/assets/springModule.png)
+![springModule](/imgs/springModule.png)
 
 ##### 대표적으로 가장 기본적으로 스프링 개발환경을 위해 필요한 의존성 라이브러리는 해당 사진과 같습니다.
 
@@ -24,7 +24,7 @@ comments : true
 
 
 
-![springStructure](/assets/springStructure.png)
+![springStructure](/imgs/springStructure.png)
 
 스프링의 기본적인 구동원리는 위의 그림과 같습니다.
 
@@ -35,7 +35,7 @@ comments : true
 
 
 .
-![springStructure_01](/assets/springStructure_01.png)
+![springStructure_01](/imgs/springStructure_01.png)
 
 
 #### XML파일에서 빈을 설정하는 기본적인 예제는 다음과 같습니다.
