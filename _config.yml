@@ -13,5 +13,6 @@ author.url: mokaim.github.io
 # Ruby Date Format
 date_format: "%B %-d, %Y"
 
-permalink: /:year-:month-:day-:title/
+# permalink: /:year-:month-:day-:title/
 
+permalink: /:categories/:title/
