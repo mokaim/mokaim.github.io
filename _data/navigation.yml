@@ -1,6 +1,10 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Archive
-  url: /archive/
+- title: Spring
+  url: /spring/
+- title: Java
+  url: /java/
+- title: AWS
+  url: /aws/
+- title: Swift
+  url: /swift/
